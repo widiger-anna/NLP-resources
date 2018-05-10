@@ -4,7 +4,7 @@ Linguistics for NLP:
 
 [Putting the Linguistics in Computational Linguistics](https://naacl2018.wordpress.com/2017/12/19/putting-the-linguistics-in-computational-linguistics/)
 
-[Reading and Writing Electronic Text bu Allison Parrish](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
+[Reading and Writing Electronic Text by Allison Parrish](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
 
 
 Talks and tutorials:
