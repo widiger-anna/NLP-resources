@@ -29,9 +29,11 @@ More resources and datasets:
 
 [Awesome NLP](https://github.com/keon/awesome-nlp)
 
-[NLP datasets](https://github.com/niderhoff/nlp-datasets)
+[Public Domain NLP datasets](https://github.com/niderhoff/nlp-datasets)
 
-[NLP datasets by Machinelearningmastery](https://machinelearningmastery.com/datasets-natural-language-processing/)
+[NLP datasets by machinelearningmastery](https://machinelearningmastery.com/datasets-natural-language-processing/)
+
+[NLP datasets by Rachael Tatman](https://www.kaggle.com/rtatman/datasets)
 
 
 
